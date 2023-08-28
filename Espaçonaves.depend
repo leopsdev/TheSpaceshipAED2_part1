@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1691512738 source:c:\users\davia\programação\c\aed\trabalho de aed i\espaçonaves\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"heap_spaceship.h"
+
+1691528225 c:\users\davia\programação\c\aed\trabalho de aed i\espaçonaves\heap_spaceship.h
+
+1691510202 source:c:\users\davia\programação\c\aed\trabalho de aed i\espaçonaves\heap_spaceship.c
+	"heap_spaceship.h"
+	<math.h>
+
+1691511819 source:c:\users\davia\programação\c\aed\trabalho de aed i\espaçonaves\read_csv.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"heap_spaceship.h"
+	<math.h>
+
+1691795072 source:c:\users\davia\programação\c\aed\trabalhos\espaçonaves\heap_spaceship.c
+	"heap_spaceship.h"
+	<math.h>
+
+1691795074 c:\users\davia\programação\c\aed\trabalhos\espaçonaves\heap_spaceship.h
+
+1691795080 source:c:\users\davia\programação\c\aed\trabalhos\espaçonaves\read_csv.c
+	"heap_spaceship.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1691795331 source:c:\users\davia\programação\c\aed\trabalhos\espaçonaves\main.c
+	"heap_spaceship.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
